@@ -41,9 +41,8 @@ python turing_machine_pin.py
 
 <img width="564" alt="Ekran Resmi 2025-06-03 20 28 52" src="https://github.com/user-attachments/assets/2a6a5a11-07dd-470f-b3b5-1f9ce6599da7" />
 
+<img width="543" alt="Ekran Resmi 2025-06-03 20 29 11" src="https://github.com/user-attachments/assets/f172e398-b67e-4a80-84df-bd9ccbd2ca8e" />
+
 <img width="544" alt="Ekran Resmi 2025-06-03 20 29 21" src="https://github.com/user-attachments/assets/a9859a5a-4d31-4cc8-9533-181ef404425b" />
 
-<img width="544" alt="Ekran Resmi 2025-06-03 20 29 21" src="https://github.com/user-attachments/assets/53a3eced-a27d-4750-a376-eba12bece6b5" />
-
 <img width="542" alt="Ekran Resmi 2025-06-03 20 29 38" src="https://github.com/user-attachments/assets/df254256-6e9c-4443-81cc-e001a576da93" />
-
