@@ -1,5 +1,3 @@
-# turing_machine_pin_controller
-
 ## Proje Hakkında
 
 Bu proje, Turing makinesi kuramını gerçek hayat uygulaması olarak modelleyen bir yazılım simülasyonudur. Kullanıcıdan alınan 4 haneli PIN kodunun, sistemde kayıtlı sabit PIN ile eşleşip eşleşmediğini kontrol eden bir Turing makinesi tasarlanmıştır. Proje, Turing makinelerinin temel çalışma prensiplerini anlamak ve gerçek bir doğrulama sürecini simüle etmek amacıyla geliştirilmiştir.
